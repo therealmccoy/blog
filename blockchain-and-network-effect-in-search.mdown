@@ -1,0 +1,21 @@
+When we make a query in to any of the popular search engine, there are many chances that a lot of other people have also searched for the same query. People have already spent time and energy, figuring out the best information available for that particular keyword by clicking on the various links displayed by the SERP.
+
+The intereseting thing which should happen here is that, since the search engine has a history of data, of people searching for that particular keyword, the **network effect** should come into play ie more the number of people have searched for that particular information, the better the search result should become, in fact it should be like top to bottom, the links with the most relevant.
+
+People may argue that this is what happens even today, but does it really happen?
+
+The reason is the search engine has no incentives if it gives us the information outlined in the above manner, its interest lies in the number of times the particular user would click on the advertisements shown alongside on the page and hence, the relevancy of the network-effect is diluted down.
+
+With blockchains, every keyword can be represented as a single block, with the most relevant links to that keyword, based on the history of search for that keyword, solely relying on the network-effect. The links included would be determined by how many persons have found the particular link informative or rather, superlative. the links would go up and down basis on what the network believes and not on the basis of what the search engine believes.
+
+The network has an incentive wherein crypto-currency can be exchanged on the basis of those getting the superlative results send bitcoins, to all those who have contributed to the block for that particular packet.
+
+This has an inherent incentive for the user to really dig-deep and find the unique source which has not yet been delivered to the block. For an information, which is really difficult to find and could be found valuable for the network, if so an user thinks, could fetch him high rewards.
+
+By clicking on the link contianed in a keyword block, the user who submitted the link could be rewarded with crypto-currency, if the other user has found it useful.And because it is almost anonymous, and free of bias, it is more truthful.
+
+When we are sending so much of query everyday in to so many search engine, it is about time that search essentially becomes a decentralised peer-to-peer network, with extended network effects, so that the fruits of labour is shared within the network and not with some outside agency.
+
+Currently, with every click we are making the search engine better, but it is so ironical that the most ideal and logical fruit which we should get in return, in terms of non-biased and truthful results, we are not getting even that. Forget about getting any monetary rewards in return.
+
+
