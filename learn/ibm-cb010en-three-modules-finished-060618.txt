@@ -1,0 +1,16 @@
+Finished three modules of IBM's CB0103EN - How to build chatbots and make money.
+
+The first three modules talked about the chatbots and the essentials of chatbots building in the sense, what are the definite things int he process, what are theprecautions which should be employed and how does the IBM's "Watson Assistant" works and how it compares with all other competitors.
+
+Then in next two modules it talks about the two very essential components of Chatbots, rather three.
+
+a. Intents - This the goal of the user's input. Watson Assistant expects us to add examples of each intent that our chatbot needs to address, these examples arethen used by Watson to figure out the different ways in which people may express their intent. In short, theintent can be expressed as labels, to group together a common goal or purpose, for a user's input.
+
+b. Entities - These are details in user's input which helps Watson to provide different responses to user's inputs. Different user inputs could have the same intent, for ex: trying to find out the location of nearest store, but would require different responses, on the basis of the entities they contain. Like, the response to user's input "Where is your store in Miami?" would differ from "Where is your store in New Delhi?".
+
+Entities have a name, a series of values associated with them, they could also have synonyms. Watson assistant first tries to detect the intent and then the matching entity. For Entities, Watson detects just exact values and synonyms specified.
+
+c. Dialog - A dialog basically defines how thebot would respond to user's input. It is structured around nodes. Each node has a name, a condition and one or multiple responses. The dialog start executing from the first node at the top. If the condition is met, it will reply to the user with a response, specificed in that node and will stop until the user has provided any other input.If the conditions is not met, it will skip the response and proceed to consider the next below node.
+
+The third modules also talks about the "Dos and Don'ts" and the fundamental rules of chatbot building. 
+
