@@ -1,0 +1,25 @@
+Tuesday 22 November 2022 11:18:16 AM 
+====================================
+
+There is certainly a hardware problem with the Acer laptop. Now, even with the battery plugged-in, it is crashing and I have no idea, how to solve it.
+
+I know, that due to the power issue, te hard disk is not starting, but I don't have any clue,how to solve it without banging the hard-disk and running the risk of ruining another disk.
+
+The other computer is running fine, as long as power does not disconnects.
+
+Kailyn replied and for the first time, she asked : "Hope you are doing well?" at the end of the email.
+
+Th disk is starting after given a pause, but I am not being able to gauge whether power supply is being made or not.
+
+Very cloudy today, and it seems, it would rain.
+
+The machine started, but now I have absolutely no idea, how long it would last. And surely, enough,it konked again.
+
+Well, nothing can be done. I tapped on the disk again, out of habit, but gently. Due to the mother-board, this disk should also not get corrupt.
+
+Wednesday 23 November 2022 11:22:17 AM 
+
+The update is that, I was able to fix the power cord and run the "CHDSK" and it fixed the error of the disk and the system was able to start properly.
+
+Met SATBIR, yesterday morning, as I was going to market to get stuff. He was driving in the car, reversed and we shook hands. He told me that, he has ought a land parcel/property in Arambol and said that he wants me to meet him, and that he would ping me later. The rendezvous time was 2200 hrs, but I did not get any ping from him.
+
